@@ -1,0 +1,36 @@
+.divicion{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding:  20px;  
+    background-color:rgba(255, 255, 255, 0);
+  }
+
+  .con1{
+    display: flex;
+    background-color: rgb(240, 240, 240);
+    width: 20%;
+    min-width: 500px;
+    height: 250px;
+    border-radius: 10px;
+    border: 1px solid rgb(0, 0, 0);
+   
+  }
+
+  .contenedor{
+    max-width: 200px;
+    max-height: 180px;
+ }
+
+ .fondo{
+    background-color: #5858FA;
+  text-align: center;
+  margin: 20px;
+  padding: 10px;
+}
+
+.con2{
+  width: 200px;
+  height: 20px;
+}
